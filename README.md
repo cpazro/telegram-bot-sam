@@ -1,12 +1,11 @@
 # ⚠️ Cambios que hice ⚠️
 - cambié la arquitectura de ARM64 A x86_64 en `template.yaml`
 - no me funcionaba el lambda endpoint para configurar el Webhook, así que agregué un API HTTP de ApiGetaway
-- Activar el VENV
-
-```bash
-python3.12 -m venv venv
-source venv/bin/activate
-```
+- Activar el VENV:
+  ```bash
+  python3.12 -m venv venv
+  source venv/bin/activate
+  ```
 
 # Sample-Python-Telegram-Bot-AWS-Serverless-PTBv13.x
 
